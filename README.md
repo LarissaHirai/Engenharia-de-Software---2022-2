@@ -10,7 +10,7 @@ RQ02 - Efetuar Login
 
 ## Casos de uso expandido
 
-<center> RQ01 - Efetuar cadastro</center>
+##### RQ01 - Efetuar cadastro
 
 -Atores:  
     Usuário - Insere, edita e exclui dados pessoais;  
@@ -56,7 +56,7 @@ Campo | Descrição | Formato
         3- Após a correção dos dados o ator deve confirmar novamente a efetuação do cadastro;  
     
 
-<center> RQ02 - Efetuar login</center>
+#### RQ02 - Efetuar login
 
 -Atores:  
     Usuário - Confirma os dados informados na hora do cadastro;  
