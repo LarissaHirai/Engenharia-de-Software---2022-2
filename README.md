@@ -28,6 +28,9 @@ RQ02 - Efetuar Login
 	6- O ator deve preencher os campos (email e senha) com os dados colocados na hora do cadastro e confirmar;  
 	7- O sistema vai ser direcionado para a página inicial do sistema onde ele poderá utilizar os mecanismos que o sistema oferece;  
 -Campos do formulário:  
+    | Hello | World |
+    |---|---|
+    | How | are you? |
     | Campo | Obrigatório? | Editável? | Formato|  
     |:--- |:--- |:--- |:--- |  
     |Nome completo |Sim |Sim |Texto |  
@@ -65,10 +68,10 @@ RQ02 - Efetuar Login
     3- O ator deve confirmar a efetuação do login clicando no botão de "Enviar";  
     4- O ator será redirecionado para página inicial do sistema;  
 -Campos do formulário:  
-Campo | Obrigatório? | Editável? | Formato  
-:--- |:--- |:--- |:--- 
-Email |Sim |Sim |Alfanumérico 
-Senha |Sim |Sim |Alfanumérico 
+Campo | Obrigatório? | Editável? | Formato    
+:--- |:--- |:--- |:---   
+Email |Sim |Sim |Alfanumérico   
+Senha |Sim |Sim |Alfanumérico   
 -Opções do ator:  
     | Opção | Descrição | Atalho |  
     |:--- |:--- |:--- |  
@@ -87,3 +90,12 @@ Senha |Sim |Sim |Alfanumérico
         1- O ator deve informar que esqueceu a senha clicando no link de direcionamento para página de recuperação de conta;  
         2- O ator será redirecinado para página de recuperação de conta onde ele deverá unformar um email de confiança para receber um código de segurança;  
         3- Após o código ser enviado o ator deverá iforma-lo para o sistema que fará a verificação do código e redirecionará o ator para página de "Criação de senha", onde ele deverá informar uma nova senha preenchendo o campo "Senha" e confirmar;  
+
+## User story
+
+## Protótipos
+
+### RQ01
+
+
+
