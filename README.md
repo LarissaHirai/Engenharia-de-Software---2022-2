@@ -13,7 +13,7 @@ RQ02 - Efetuar Login
 -Atores:  
     Usuário - Insere, edita e exclui dados pessoais;  
 -Descrição sucinta:  
-    Cadastro de usuários para utilização do programa e o portunidade de desfrutar dos recursos oferecidos pelo sistema;  
+    Cadastro de usuários para utilização do sistema e o portunidade de desfrutar dos recursos oferecidos pelo sistema;  
 -Pré-condição:  
     O ator não pode ter conta cadastrada no sistema.  
 -Fluxo principal:  
@@ -59,7 +59,7 @@ Campo | Descrição | Formato
 -Atores:  
     Usuário - Confirma os dados informados na hora do cadastro;  
 -Decrição sucinta:  
-    Confirmação dos dados e direcionamento para conta apropriada para que os atores possam utilizar o programa e possibilita a portunidade de desfrutar dos recursos oferecidos pelo sistema;  
+    Confirmação dos dados e direcionamento para conta apropriada para que os atores possam utilizar o sistema e possibilita a portunidade de desfrutar dos recursos oferecidos pelo sistema;  
 -Pré-condição:  
     O ator precisa ter uma conta cadastrada no sistema;  
 -Fluxo principal:  
@@ -95,6 +95,11 @@ Campo | Descrição | Formato
         3- Após o código ser enviado o ator deverá iforma-lo para o sistema que fará a verificação do código e redirecionará o ator para página de "Criação de senha", onde ele deverá informar uma nova senha preenchendo o campo "Senha" e confirmar;  
 
 ## User story
+### RQ01
+-Eu como ator, gostaria de criar uma conta com os meus dados pessoais (nome, email) e uma senha, para obter acesso aos recursos oferecidos pelo sistema.  
+
+### RQ02
+-Eu como ator, gostaria de efetuar o login na minha conta que já possui os meus dados e senha, para obter acesso a minha pagina pessoal onde já desfruto dos recursos oferecidos pelo sistema.  
 
 ## Protótipos
 
