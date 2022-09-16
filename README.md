@@ -1,5 +1,7 @@
+Repositório voltado ao armazenamento da atividade 4 realizada no dia 15/09/2022 da disciplina de Engenharia de Software - UFT-Campus Palmas.  
+
 # Ativiade-4 - Requisitos
-Repositório voltado ao armazenamento da atividade 4 realizada no dia 15/09/2022 da disciplina de Engenharia de Software - UFT-Campus Palmas.
+Na atividade 4 foi proposto o levantamentos de dois requisitos, criação do caso de uso expandido, criação do user story e protótipo, para cada requisito levantado.  
 
 ## Requisitos
 
