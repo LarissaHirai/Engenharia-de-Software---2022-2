@@ -28,9 +28,6 @@ RQ02 - Efetuar Login
 	6- O ator deve preencher os campos (email e senha) com os dados colocados na hora do cadastro e confirmar;  
 	7- O sistema vai ser direcionado para a página inicial do sistema onde ele poderá utilizar os mecanismos que o sistema oferece;  
 -Campos do formulário:  
-    Alinhado a esquerda | Centralizado | Alinhado a direita
-    :--------- | :------: | -------:
-    Valor | Valor | Valor
     | Campo | Obrigatório? | Editável? | Formato|  
     |:--- |:--- |:--- |:--- |  
     |Nome completo |Sim |Sim |Texto |  
@@ -68,10 +65,10 @@ RQ02 - Efetuar Login
     3- O ator deve confirmar a efetuação do login clicando no botão de "Enviar";  
     4- O ator será redirecionado para página inicial do sistema;  
 -Campos do formulário:  
-    Campo | Obrigatório? | Editável? | Formato
-    :--- |:--- |:--- |:--- 
-    Email |Sim |Sim |Alfanumérico 
-    Senha |Sim |Sim |Alfanumérico 
+Campo | Obrigatório? | Editável? | Formato  
+:--- |:--- |:--- |:--- 
+Email |Sim |Sim |Alfanumérico 
+Senha |Sim |Sim |Alfanumérico 
 -Opções do ator:  
     | Opção | Descrição | Atalho |  
     |:--- |:--- |:--- |  
