@@ -33,14 +33,17 @@ Campo | Obrigatório? | Editável? | Formato
 Nome completo |Sim |Sim |Texto    
 Email |Sim |Sim |Alfanumérico    
 Senha |Sim |Sim |Alfanumérico    
+
 -Opções do ator:  
 Opção | Descrição | Atalho    
 :--- |:--- |:---    
-Enviar |Envia os dados informados no formulário |    
+Enviar |Envia os dados informados no formulário |   
+
 -Relatório do ator:  
 Campo | Descrição | Formato    
 :--- |:--- |:---    
  | |    
+
 -Fluxos alternativos:  
     FA01 - Ator já possui uma conta  
         1- O sistema vai exibir um aviso informando ao ator que o cadastro não pode ser efetuado;  
@@ -79,6 +82,7 @@ Enviar |Confimar os dados informados para efetuação do login |
 Campo | Descrição | Formato   
 :--- |:--- |:---    
  | |    
+
 -Fluxos alternativos:  
     FA01 - O ator não possui conta  
         1- O sistema apresentará um aviso informando que o login não pode ser efetuado pois não existe uma conta cadastrada;  
