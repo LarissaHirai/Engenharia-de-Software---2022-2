@@ -10,6 +10,7 @@ RQ02 - Efetuar Login
 
 ## Casos de uso expandido
 
+
 ##### RQ01 - Efetuar cadastro
 
 -Atores:  
@@ -56,6 +57,7 @@ Campo | Descrição | Formato
         3- Após a correção dos dados o ator deve confirmar novamente a efetuação do cadastro;  
     
 
+
 #### RQ02 - Efetuar login
 
 -Atores:  
@@ -97,18 +99,18 @@ Campo | Descrição | Formato
         3- Após o código ser enviado o ator deverá iforma-lo para o sistema que fará a verificação do código e redirecionará o ator para página de "Criação de senha", onde ele deverá informar uma nova senha preenchendo o campo "Senha" e confirmar;  
 
 ## User story
-### RQ01
+#### RQ01
 -Eu como ator, gostaria de criar uma conta com os meus dados pessoais (nome, email) e uma senha, para obter acesso aos recursos oferecidos pelo sistema.  
 
-### RQ02
+#### RQ02
 -Eu como ator, gostaria de efetuar o login na minha conta que já possui os meus dados e senha, para obter acesso a minha pagina pessoal onde já desfruto dos recursos oferecidos pelo sistema.  
 
 ## Protótipos
 
-### RQ01
+#### RQ01
 ![Efetuar cadastro](/img/Efetuar%20cadastro.PNG)  
 
-### RQ02
+#### RQ02
 ![Efetuar login](/img/Efetuar%20login.PNG)  
 
 
