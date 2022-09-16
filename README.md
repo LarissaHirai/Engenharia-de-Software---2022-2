@@ -65,10 +65,10 @@ RQ02 - Efetuar Login
     3- O ator deve confirmar a efetuação do login clicando no botão de "Enviar";  
     4- O ator será redirecionado para página inicial do sistema;  
 -Campos do formulário:  
-    | Campo | Obrigatório? | Editável? | Formato|  
-    |:--- |:--- |:--- |:--- |  
-    |Email |Sim |Sim |Alfanumérico |  
-    |Senha |Sim |Sim |Alfanumérico |  
+    Campo | Obrigatório? | Editável? | Formato
+    :--- |:--- |:--- |:--- 
+    Email |Sim |Sim |Alfanumérico 
+    Senha |Sim |Sim |Alfanumérico 
 -Opções do ator:  
     | Opção | Descrição | Atalho |  
     |:--- |:--- |:--- |  
