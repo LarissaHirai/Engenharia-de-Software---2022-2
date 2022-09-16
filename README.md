@@ -28,19 +28,19 @@ RQ02 - Efetuar Login
 	6- O ator deve preencher os campos (email e senha) com os dados colocados na hora do cadastro e confirmar;  
 	7- O sistema vai ser direcionado para a página inicial do sistema onde ele poderá utilizar os mecanismos que o sistema oferece;  
 -Campos do formulário:  
-    | Campo | Obrigatório? | Editável? | Formato|  
-    |:--- |:--- |:--- |:--- |  
-    |Nome completo |Sim |Sim |Texto |  
-    |Email |Sim |Sim |Alfanumérico |  
-    |Senha |Sim |Sim |Alfanumérico |  
+Campo | Obrigatório? | Editável? | Formato   
+:--- |:--- |:--- |:---    
+Nome completo |Sim |Sim |Texto    
+Email |Sim |Sim |Alfanumérico    
+Senha |Sim |Sim |Alfanumérico    
 -Opções do ator:  
-    | Opção | Descrição | Atalho |  
-    |:--- |:--- |:--- |  
-    |Enviar |Envia os dados informados no formulário | |  
+Opção | Descrição | Atalho    
+:--- |:--- |:---    
+Enviar |Envia os dados informados no formulário |    
 -Relatório do ator:  
-    | Campo | Descrição | Formato |  
-    |:--- |:--- |:--- |  
-    | | | |  
+Campo | Descrição | Formato    
+:--- |:--- |:---    
+ | |    
 -Fluxos alternativos:  
     FA01 - Ator já possui uma conta  
         1- O sistema vai exibir um aviso informando ao ator que o cadastro não pode ser efetuado;  
@@ -71,13 +71,14 @@ Email |Sim |Sim |Alfanumérico
 Senha |Sim |Sim |Alfanumérico    
 
 -Opções do ator:  
-    | Opção | Descrição | Atalho |  
-    |:--- |:--- |:--- |  
-    |Enviar |Confimar os dados informados para efetuação do login | |  
+Opção | Descrição | Atalho    
+:--- |:--- |:---   
+Enviar |Confimar os dados informados para efetuação do login |   
+
 -Relatório do ator:  
-    | Campo | Descrição | Formato |  
-    |:--- |:--- |:--- |  
-    | | | |  
+Campo | Descrição | Formato   
+:--- |:--- |:---    
+ | |    
 -Fluxos alternativos:  
     FA01 - O ator não possui conta  
         1- O sistema apresentará um aviso informando que o login não pode ser efetuado pois não existe uma conta cadastrada;  
