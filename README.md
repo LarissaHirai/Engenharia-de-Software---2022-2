@@ -99,7 +99,10 @@ Campo | Descrição | Formato
 ## Protótipos
 
 ### RQ01
-![Efetuar cadastro](/img/Cadatro%20usu%C3%A1rio.PNG)
+![Efetuar cadastro](/img/Efetuar%20cadastro.PNG)  
+
+### RQ02
+![Efetuar login](/img/Efetuar%20login.PNG)  
 
 
 
