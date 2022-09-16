@@ -28,9 +28,9 @@ RQ02 - Efetuar Login
 	6- O ator deve preencher os campos (email e senha) com os dados colocados na hora do cadastro e confirmar;  
 	7- O sistema vai ser direcionado para a página inicial do sistema onde ele poderá utilizar os mecanismos que o sistema oferece;  
 -Campos do formulário:  
-    | Hello | World |
-    |---|---|
-    | How | are you? |
+    | Hello | World |  
+    |---|---|  
+    | How | are you? |  
     | Campo | Obrigatório? | Editável? | Formato|  
     |:--- |:--- |:--- |:--- |  
     |Nome completo |Sim |Sim |Texto |  
